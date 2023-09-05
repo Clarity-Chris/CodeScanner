@@ -26,7 +26,7 @@ let package = Package(
             name: "CodeScanner",
             dependencies: [],
             resources: [
-                .process("Resources")]
+                .process("Sources/CodeScanner/Resources")]
         ),
     ]
 )
